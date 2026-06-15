@@ -43,9 +43,7 @@ A clean and simple **Calculator Application** built using **Python** and **Tkint
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/tkinter-calculator.git
-cd tkinter-calculator
-```
+https://github.com/sonalicodehub/Calculatorr``
 
 ### 2️⃣ Verify Python Installation
 
