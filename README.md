@@ -43,7 +43,8 @@ A clean and simple **Calculator Application** built using **Python** and **Tkint
 ### 1️⃣ Clone Repository
 
 ```bash
-https://github.com/sonalicodehub/Calculatorr``
+https://github.com/sonalicodehub/Calculator
+```
 
 ### 2️⃣ Verify Python Installation
 
